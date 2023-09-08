@@ -9,4 +9,4 @@ License: https://bootstrapmade.com/license/
 
 
 URL da página: 
-erikorego@github.io/meu-portfolio
+erikorego.github.io/meu-portfolio
